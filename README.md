@@ -16,7 +16,7 @@ Marcus Vinicius Titanero Guelfi     RM:86223
 Vinicius De Nani Mazinetti              RM:84310
 
 
-# Executar no Google Colab, para funcionamento do id do google drive e ter conexão com o dataset armazenado
+### Executar no Google Colab, para funcionamento do id do google drive e ter conexão com o dataset armazenado
 
 # Vídeo: https://youtu.be/6Ox_ckC8OSA
 
